@@ -247,6 +247,7 @@ tfoot td{
 
 .menu li.active{
     background: #e0e0e058;
+    width: 100%;
 }
 
 .menu li:hover{
